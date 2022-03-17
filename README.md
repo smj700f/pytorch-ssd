@@ -26,7 +26,7 @@
 
 ※ --epochs=50 是時期，計算50次時期
 
-# 訓練道路辨識
+# 訓練道路跟隨
 把道路辨識資料集dataset_steering資料夾放在road_steering資料夾
 
 切換路徑
